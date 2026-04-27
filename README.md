@@ -1,3 +1,9 @@
-Google Slide Link:
+Power BI  Laboratory
 
-https://docs.google.com/presentation/d/1hT89R0yZ97HthTrIRWSMgOY_S3bFrjXtLq0FySjE5B8/edit?usp=sharing
+Submitted By:
+Neil Bryant O. Galindez
+
+Laboratory Title
+
+PowerBI_Lw3
+[Click here to view the PDF](./Galindez_Neil Bryant_Week3_Lab.pdf)
